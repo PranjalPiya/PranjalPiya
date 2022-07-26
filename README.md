@@ -1,16 +1,16 @@
 
-<h1 align="center">Hi 👋, I'm Pranjal Piya</h1>
+<h1 align="center">Hi <img alt='' width= 40 src='https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif'>, I'm Pranjal Piya</h1>
 <h3 align="center">A passionate Mobile App developer and Website Developer from Nepal</h3>
 <br><br>
 <img align="right" alt="coding" width="410" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 
 ## About Me
-- :man_student: I've recently completed my bachelor's degree from Islington College (Which is affiliated to London Metropolitan University).<br>
-- 👀 I’m interested in Web Development, Mobile App Develpment and AI.<br>
-- 🌱 I’m currently learning App development and web development.<br>
-- 💞️ I’m seeking for a job to experience working environment and to demonstrate the skills that i have learned thorughout the college and internship.<br>
-- 📫 You can contact me via email:- pranjalpiya10@gmail.com <br>
+- :man_student: I've recently completed my bachelor's degree from Islington College (Which is affiliated to London Metropolitan University).<br><br>
+- 👀 I’m interested in Web Development, Mobile App Develpment and AI.<br><br>
+- 🌱 I’m currently learning App development and web development.<br><br>
+- 💞️ I’m seeking for a job to experience working environment and to demonstrate the skills that i have learned thorughout the college and internship.<br><br>
+- 📫 You can contact me via email:- pranjalpiya10@gmail.com <br><br>
 
 ## Visitor's Count:
 ![](https://komarev.com/ghpvc/?username=PranjalPiya&style=for-the-badge&color=blue)
@@ -33,7 +33,7 @@
 
 
 ## GitHub Activity Graph
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=PranjalPiya&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Your Daily Motivation:
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
