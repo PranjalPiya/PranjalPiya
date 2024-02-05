@@ -6,7 +6,7 @@
 
 
 ## About Me
-- :man_student: I've recently completed my bachelor's degree from Islington College (Which is affiliated with London Metropolitan University).<br><br>
+- :man_student: I've completed my bachelor's from Islington College (Which is affiliated with London Metropolitan University).<br><br>
 - 👀 I’m interested in Web Development, Mobile App development, and AI.<br><br>
 - 🌱 I’m currently learning App development and web development.<br><br>
 - 💞️ I’m seeking a job to experience a working environment and to demonstrate the skills that I have learned throughout college and internship.<br><br>
